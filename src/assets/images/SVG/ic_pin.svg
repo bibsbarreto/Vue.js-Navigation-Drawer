@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.55271368e-15,9.24734808 C3.55271368e-15,9.33458721 0.0483575121,11.7074916 0.908787727,13.3999308 C3.37168584,18.6517266 9.9916625,24.4618528 10,24.444405 C10.0116725,24.4618528 16.6016342,18.6866222 19.0762048,13.4348264 C19.8115725,12.1960308 20,9.43927417 20,9.24734808 C20,4.13513489 15.5244289,0 10,0 C4.47890612,0 3.55271368e-15,4.13513489 3.55271368e-15,9.24734808 Z" id="path-1"></path>
+        <filter x="-35.0%" y="-20.5%" width="170.0%" height="155.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_map_pin_favorite">
+            <g id="ic_pin">
+                <rect id="Rectangle-3" x="0" y="0" width="36" height="36"></rect>
+                <g id="Group" transform="translate(8.000000, 6.000000)">
+                    <g id="Combined-Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M0.909090909,9.33260599 C0.909090909,4.68513947 4.98082375,0.925925926 10,0.925925926 C15.0222081,0.925925926 19.0909091,4.68513947 19.0909091,9.33260599 C19.0909091,9.50708426 18.9196113,12.0132266 18.2510952,13.1394045 C16.0014856,17.9137643 10.0106114,23.163974 10,23.1481123 C9.99242045,23.163974 3.97425986,17.882041 1.73526157,13.1076812 C0.953052284,11.5691001 0.909090909,9.4119143 0.909090909,9.33260599 Z M10,12.3980942 L12.6218183,14.0946502 L11.926061,10.897119 L14.2424242,8.74572223 L11.192121,8.46826949 L10,5.4526749 L8.80787861,8.46826949 L5.75757576,8.74572223 L8.07393941,10.897119 L7.37818189,14.0946502 L10,12.3980942 Z" id="Combined-Shape-Copy" fill="#30CDE2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

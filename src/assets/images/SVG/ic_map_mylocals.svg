@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="28px" viewBox="0 0 24 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_map_mylocals</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_map_mylocals">
+            <polygon id="Request-/-Icon-/-Local-Destiny" points="0 0 24 0 24 28 0 28"></polygon>
+            <path d="M2,11.0792145 C2,6.05995062 6.47890612,2 12,2 C17.5244289,2 22,6.05995062 22,11.0792145 C22,11.267651 21.8115725,13.9742848 21.0762048,15.1905569 C18.6016342,20.3468655 12.0116725,26.0170919 12,25.9999613 C11.9916625,26.0170919 5.37168584,20.3126043 2.90878773,15.1562957 C2.04835751,13.4946281 2,11.1648674 2,11.0792145 Z M12,14.3899417 L14.8840001,16.2222222 L14.1186671,12.7688885 L16.6666667,10.44538 L13.3113331,10.145731 L12,6.88888889 L10.6886665,10.145731 L7.33333333,10.44538 L9.88133335,12.7688885 L9.11600008,16.2222222 L12,14.3899417 Z" id="Combined-Shape" fill-opacity="0.12" fill="#000000"></path>
+        </g>
+    </g>
+</svg>

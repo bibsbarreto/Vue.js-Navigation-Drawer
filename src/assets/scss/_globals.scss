@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('~@/assets/fonts/open_sans/OpenSans-Regular.ttf'),
+       url('~@/assets/fonts/open_sans/OpenSans-SemiBold.ttf'),
+       url('~@/assets/fonts/open_sans/OpenSans-Bold.ttf');
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-size: 19px;
+  color: $color-title;
+}
+
+h3 {
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: normal;
+  color: $color-subtitle;
+  margin-bottom: 8px;
+}
+
+p, span {
+  color: rgba(0,0,0,0.87);
+}

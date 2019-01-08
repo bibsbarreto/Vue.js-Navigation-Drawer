@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_error-alert</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_error-alert">
+            <rect id="bounds" x="0" y="0" width="40" height="40"></rect>
+            <path d="M19.9999474,0 C8.99997633,0 0,8.99997633 0,19.9999474 C0,30.9999185 8.99997633,39.9998948 19.9999474,39.9998948 C30.9999185,39.9998948 39.9998948,30.9999185 39.9998948,19.9999474 C39.9998948,8.99997633 30.9999185,0 19.9999474,0 L19.9999474,0 Z M21.9999421,29.9999211 L17.9999527,29.9999211 L17.9999527,25.9999316 L21.9999421,25.9999316 L21.9999421,29.9999211 L21.9999421,29.9999211 Z M21.9999421,21.9999421 L17.9999527,21.9999421 L17.9999527,9.99997369 L21.9999421,9.99997369 L21.9999421,21.9999421 L21.9999421,21.9999421 Z" id="Shape" fill-opacity="0.26" fill="#000000"></path>
+        </g>
+    </g>
+</svg>

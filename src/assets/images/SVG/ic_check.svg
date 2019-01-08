@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_check">
+            <rect id="Rectangle-5" fill-opacity="0.01" fill="#FFFFFF" x="5" y="5" width="14" height="14"></rect>
+            <path d="M9.09090904,15.5472644 L5.78766434,11.931772 C5.5032725,11.6204973 5.03928955,11.6236632 4.75506043,11.9347597 L4.51766694,12.1945932 C4.23176738,12.507518 4.2319746,13.0150962 4.51615963,13.3261446 L8.57474941,17.7683825 C8.8598165,18.0803962 9.3187609,18.0839432 9.60973818,17.7654606 L19.4811709,6.9609076 C19.7677123,6.64728018 19.7665623,6.13753084 19.4823332,5.82643429 L19.2449398,5.56660063 C18.9590403,5.25367574 18.4890694,5.26072034 18.2091802,5.56706674 L9.09090904,15.5472644 Z" id="Fill-2" fill="#31CDE2"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_map_pin_local</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.38353684e-15,9.24734808 C3.38353684e-15,9.33458721 0.0483575121,11.7074916 0.908787727,13.3999308 C3.37168584,18.6517266 9.9916625,24.4618528 10,24.444405 C10.0116725,24.4618528 16.6016342,18.6866222 19.0762048,13.4348264 C19.8115725,12.1960308 20,9.43927417 20,9.24734808 C20,4.13513489 15.5244289,0 10,0 C4.47890612,0 3.38353684e-15,4.13513489 3.38353684e-15,9.24734808 Z" id="path-1"></path>
+        <filter x="-35.0%" y="-20.5%" width="170.0%" height="155.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_map_pin_local_desabilitado">
+            <rect id="Rectangle-3" x="0" y="0" width="36" height="36"></rect>
+            <g id="Group-2-Copy-2" transform="translate(8.000000, 6.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M0.909090909,9.33260599 C0.909090909,4.68513947 4.98082375,0.925925926 10,0.925925926 C15.0222081,0.925925926 19.0909091,4.68513947 19.0909091,9.33260599 C19.0909091,9.50708426 18.9196113,12.0132266 18.2510952,13.1394045 C16.0014856,17.9137643 10.0106114,23.163974 10,23.1481123 C9.99242045,23.163974 3.97425986,17.882041 1.73526157,13.1076812 C0.953052284,11.5691001 0.909090909,9.4119143 0.909090909,9.33260599 Z M9.52380952,11.5384615 L8.06082589,10.0614108 C7.81683849,9.81507732 7.41707211,9.81930219 7.17631476,10.0623745 L7.10939952,10.1299332 C6.86488492,10.3767989 6.86304967,10.7751944 7.11309524,11.0276442 L9.07738095,13.0108173 C9.32393664,13.2597437 9.72335612,13.253839 9.95376479,13.0140165 L14.3478347,8.44041772 C14.5852924,8.19325815 14.5758145,7.78897816 14.3350571,7.54590583 L14.2681419,7.47834717 C14.0236273,7.23148147 13.6294004,7.23672997 13.3972288,7.47999333 L9.52380952,11.5384615 Z" id="Combined-Shape" fill-opacity="0.24" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>
