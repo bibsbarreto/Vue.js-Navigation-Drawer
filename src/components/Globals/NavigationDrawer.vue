@@ -103,5 +103,6 @@
     height: 120px;
     width: auto;
     background: url('~@/assets/images/PNG/cat.png') no-repeat center;
+    background-size: auto 100%;
   }
 </style>
