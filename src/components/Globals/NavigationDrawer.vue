@@ -3,8 +3,14 @@
     <div class="nav-logo"/>
 
     <v-list class="pt-0">
-      <v-list-tile class="list-tile" v-for="(item, i) in items" :color="item.iconColor"
-      @click="goTo(item.name)" @mouseover="mouseOver(i)" @mouseout="mouseOut(i)">
+      <v-list-tile
+        class="list-tile"
+        v-for="(item, i) in items"
+        :color="item.iconColor"
+        @click="goTo(item.name)"
+        @mouseover="mouseOver(i)"
+        @mouseout="mouseOut(i)"
+      >
         <v-list-tile-action>
           <component :is="item.type" :iconColor="item.iconColor"/>
         </v-list-tile-action>
@@ -27,8 +33,14 @@
 
   export  default {
     name: 'NavigationDrawer',
-    components: { IconRequestFreight, IconTrucksList, IconMyFreights,
-      IconMyAccount, IconSupport, IconLogout },
+    components: {
+      IconRequestFreight,
+      IconTrucksList,
+      IconMyFreights,
+      IconMyAccount,
+      IconSupport,
+      IconLogout
+    },
     data() {
       return {
         colorOn: '#07C2DC',

@@ -24,7 +24,7 @@
 
 Acesse via terminal o local dos seus projetos e faça o download do repositório.
 ```bash
-$ git clone git@gitlab.com:jera-software/oxapp-rancher-front.git
+$ git clone https://github.com/itsbibsbarreto/Vue.js-Navigation-Drawer.git
 ```
 
 Para utilização do ambiente de desenvolvimento configure o Git Flow.
